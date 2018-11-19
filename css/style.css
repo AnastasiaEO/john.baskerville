@@ -12,5 +12,6 @@
 body{
     width: 75%;
     max-width:670px;
-
+    margin: auto;
+    background: #fafafa;
 }
