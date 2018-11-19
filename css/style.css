@@ -67,6 +67,39 @@ a:hover{
     border-bottom: 1px dotted;
 }
 
+/* ------ Navigation ------ */
+
+nav {   
+top: 0;
+    left:0;
+    margin: 0;
+    width; 100%;
+    background-color: #c06;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a:link{color:#fff}
+
+nav a:visited {color: #fff}
+
+nav a:hover {border-bottom: none;}
+
+
+
+
+
 
 
 
