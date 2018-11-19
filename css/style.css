@@ -6,3 +6,11 @@
     font-size:100;
     line-height:1em;
 }
+
+/* ------  MAIN STYLING ------ */
+
+body{
+    width: 75%;
+    max-width:670px;
+
+}
