@@ -21,4 +21,5 @@ Sunday 11th November 2018
 
 [Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework2.html) Second History homework
 
-Sunday 18th November 2018 [Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework3.html) Tables and images
+Sunday 18th November 2018 
+[Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework3.html) Tables and images
