@@ -23,4 +23,4 @@ Sunday 11th November 2018
 
 Sunday 18th November 2018
 
-[Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework3.html) third History homework
+[Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework3.html)
