@@ -160,3 +160,11 @@ th{
     
 }
 
+th,td {
+    padding: .6em;
+}
+
+table,td {
+    background: #BFBEBB;
+    border: 2px solid #fff;
+}
