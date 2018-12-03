@@ -199,3 +199,31 @@ footer hr {
     display:inline-block;
 }
 
+.connections a:link {
+    border-bottom: none;
+}
+
+.connections img {
+    opacity: 0.5;
+    border: none;
+}
+
+.connections a:hover img {
+    opacity: 1.0;
+    border-bottom: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
