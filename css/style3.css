@@ -215,7 +215,11 @@ footer hr {
         transform: scale (1.2);
 }
 
-
+nav a:hover {
+    border-bottom: none;
+    color: #490026;
+    transition: all 0.2s ease-in-out;
+}
 
 
 
