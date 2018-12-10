@@ -1,9 +1,8 @@
-
+# Classwork
 
 Monday 29th October 2018
 
 [Ana](https://anastasiaeo.github.io/john.baskerville/baskerville.html) Added First HTML page
-
 
 Monday 5th November 2018
  
@@ -26,6 +25,8 @@ Monday 3rd December 2018
 [Ana](https://anastasiaeo.github.io/john.baskerville/baskerville6.html) Baskerville 6
 
 Sunday 4th November 2018
+
+# Homeworks
 
 [Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework1.html) First History homework
  
