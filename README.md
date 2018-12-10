@@ -24,9 +24,9 @@ Monday 3rd December 2018
 
 [Ana](https://anastasiaeo.github.io/john.baskerville/baskerville6.html) Baskerville 6
 
-Sunday 4th November 2018
-
 # Homeworks
+
+Sunday 4th November 2018
 
 [Ana](https://anastasiaeo.github.io/john.baskerville/historyhomework1.html) First History homework
  
