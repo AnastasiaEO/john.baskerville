@@ -20,9 +20,12 @@ Monday 26th November 2018
 
 [Ana](https://anastasiaeo.github.io/john.baskerville/baskerville5.html) Baskerville 5
 
+
+[Ana](https://anastasiaeo.github.io/john.baskerville/baskerville6.html) Baskerville 5.5 Exercise 
+
 Monday 3rd December 2018
 
-[Ana](https://anastasiaeo.github.io/john.baskerville/baskerville6.html) Baskerville 6
+[Ana](https://anastasiaeo.github.io/john.baskerville/baskerville7.html) Baskerville 7
 
 # Homeworks
 
