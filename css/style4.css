@@ -1,0 +1,37 @@
+leader = drop cap 
+drop shadow = drop shadow
+section or div
+
+/* ------ CSS RESET ------ */
+
+* {
+    padding 0;
+    margin 0;
+    font-size:100;
+    line-height:1em;
+}
+
+/* ------  MAIN STYLING ------ */
+
+body{
+    width: 75%;
+    max-width:670px;
+    margin: auto;
+    background: #fafafa;
+    color: #333333;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1,h2,h3 {
+    font-weight: normal;
+    color:#c06;
+    text-align: center
+}
+
+p, li, blockquote, {
+    margin-bottom: 1.5em;
+    line-height: 1.8}
+
+
+
+
