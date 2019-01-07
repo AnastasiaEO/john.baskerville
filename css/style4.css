@@ -22,16 +22,21 @@ body{
     font-family: 'Libre Baskerville', serif;
 }
 
-h1,h2,h3 {
+h1,h3 {
     font-weight: normal;
-    color:#c06;
-    text-align: center
+    color:#333333;
+    text-align: left
 }
 
 p, li, blockquote, {
     margin-bottom: 1.5em;
     line-height: 1.8}
 
-
+h2{
+  font-weight: normal;
+    color:#333333;
+    text-align: left;
+    font-style: italic;    
+}
 
 
