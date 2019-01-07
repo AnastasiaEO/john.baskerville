@@ -2,7 +2,7 @@
 
 Final Essay
 
-[Ana](https://anastasiaeo.github.io/john.baskerville/paulrand.html)
+[Ana](https://anastasiaeo.github.io/john.baskerville/paulrand.html) IXD102 Paul Rand Essay
 
 Monday 29th October 2018
 
