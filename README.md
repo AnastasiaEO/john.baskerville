@@ -3,7 +3,7 @@
 
 Semester 2 Portfolio Website
 
-[Ana](https://anastasiaeo.github.io/john.baskerville/paulrand.html) 
+[Ana](https://anastasiaeo.github.io/john.baskerville/portfolio.html) 
 
 Portfolio Website
 
