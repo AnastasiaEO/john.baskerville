@@ -6,11 +6,13 @@ Portfolio Website
 
 
 
-# Final Essay
+# 1XD104 Portfolio Website
 
-Final Essay
+Semester 2 Portfolio Website
 
-[Ana](https://anastasiaeo.github.io/john.baskerville/paulrand.html) IXD102 Paul Rand Essay
+[Ana](https://anastasiaeo.github.io/john.baskerville/paulrand.html) 
+
+Portfolio Website
 
 # Classwork
 
