@@ -1,10 +1,3 @@
- # Portfolio Website
-
-Portfolio Website
-
-[Ana](https://anastasiaeo.github.io/websitesemester2/example2.html) 
-
-
 
 # 1XD104 Portfolio Website
 
